@@ -1,7 +1,7 @@
 # desafio-todo-list-laravel-vue
 Gestão de usuários e lista de tarefas:
 
-# Paa teste em localhost:
+# Para teste em localhost:
 
 1) Clone o projeto;
 2) Acessa a pasta API e rode o compando composer update;
@@ -12,6 +12,6 @@ Gestão de usuários e lista de tarefas:
   3.2) abra o arquivo app\src\plugins\axios.js e coloque a url da aplicação local
   3.2) Rode o comando npm run dev.
 
-# Não tem testes para o app online mas a API esta rodando para acesso do APP  url: https://apps.davtech.com.br/todolist/api/api
+ Não tem testes para o app online mas a API esta rodando para acesso do APP  url: https://apps.davtech.com.br/todolist/api/api
 
-#Para teste basta execulta os passos do item 3 sem alterar nada e roda apenas o app.
+ Para teste basta execulta os passos do item 3 sem alterar nada e roda apenas o app.
